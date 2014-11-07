@@ -49,6 +49,6 @@ for turn in range(4):
 			print "You missed my battleship!"
             
     if turn == 3:
-        print "Turn", turn + 1
+        print "Tur", turn + 1
         print_board(board)
         print "Game Over"
